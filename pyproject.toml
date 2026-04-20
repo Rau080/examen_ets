@@ -1,0 +1,5 @@
+
+
+[tool.ruff.format]
+quote-style = "double"  # o "single"
+indent-style = "space"  # o "tab"
