@@ -1,0 +1,2 @@
+
+from .gestorpartida import gestorPartida

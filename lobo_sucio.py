@@ -8,6 +8,7 @@ class jugador_del_juego:
         self.esta_vivo=True
         
         variable_inutil = "esto no sirve para nada"  
+        
     def AccionNocturna(self, objetivo=None):  
         if not self.esta_vivo:
             return f"{self.Nombre} está muerto."
